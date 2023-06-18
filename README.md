@@ -1,7 +1,8 @@
-# ChatStreamApp
+This is a video chat app built with React, Socket.io, and WebRTC. The app allows users to initiate video calls in the same room by sending streams.
 
-This is video chat app made with react server.io and web rtc where user do video call on same room by send stream.
+Getting Started
 
-use npm i after clone this project.
+To get started with the project, follow these steps:
 
-You will give me suggestion also what improvment we will do for this
+Clone the repository.
+Run npm install to install the required dependencies.
